@@ -24,3 +24,5 @@ public:
         return solve(0 , 1 , prices , n , dp);
     }
 };
+t.c-->
+s.c-->
